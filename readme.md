@@ -42,8 +42,10 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [AWS Roadmap](https://roadmap.sh/aws)
 - [Linux Roadmap](https://roadmap.sh/linux)
+- [Terraform Roadmap](https://roadmap.sh/terraform)
 - [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
 - [MLOps Roadmap](https://roadmap.sh/mlops)
+- [Product Manager Roadmap](https://roadmap.sh/product-manager)
 - [QA Roadmap](https://roadmap.sh/qa)
 - [Python Roadmap](https://roadmap.sh/python)
 - [Software Architect Roadmap](https://roadmap.sh/software-architect)
@@ -59,6 +61,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Node.js Roadmap](https://roadmap.sh/nodejs)
 - [GraphQL Roadmap](https://roadmap.sh/graphql)
 - [Android Roadmap](https://roadmap.sh/android)
+- [iOS Roadmap](https://roadmap.sh/ios)
 - [Flutter Roadmap](https://roadmap.sh/flutter)
 - [Go Roadmap](https://roadmap.sh/golang)
 - [Rust Roadmap](https://roadmap.sh/rust)
@@ -77,6 +80,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 - [Docker Roadmap](https://roadmap.sh/docker)
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 - [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
+- [DevRel Engineer Roadmap](https://roadmap.sh/devrel)
 
 There are also interactive best practices:
 
@@ -91,6 +95,8 @@ There are also interactive best practices:
 - [JavaScript Questions](https://roadmap.sh/questions/javascript)
 - [Node.js Questions](https://roadmap.sh/questions/nodejs)
 - [React Questions](https://roadmap.sh/questions/react)
+- [Backend Questions](https://roadmap.sh/questions/backend)
+- [Frontend Questions](https://roadmap.sh/questions/frontend)
 
 ![](https://i.imgur.com/waxVImv.png)
 

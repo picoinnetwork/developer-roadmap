@@ -15,6 +15,10 @@ export const allowedLinkTypes = [
   'course',
   'website',
   'podcast',
+  'roadmap.sh',
+  'official',
+  'roadmap',
+  'feed',
 ] as const;
 
 export type AllowedLinkTypes = (typeof allowedLinkTypes)[number];
@@ -43,6 +47,7 @@ export type GetRoadmapResponse = RoadmapDocument & {
   canManage: boolean;
   creator?: CreatorType;
   team?: CreatorType;
+  unseenRatingCount: number;
 };
 
 export function hideRoadmapLoader() {

@@ -6,9 +6,8 @@ Setting up C++ requires a few steps, including installing a compiler, configurin
 
 A compiler is required to convert C++ code into machine language. Some popular C++ compilers include:
 
-- GCC (GNU Compiler Collection) for Linux and macOS
-- MinGW (Minimalist GNU for Windows) for Windows
-- Microsoft Visual C++ for Windows
+- GCC (GNU Compiler Collection) for Linux and macOS, but can also be used on Windows through MinGW
+- MSVC (Microsoft Visual C++) for Windows
 
 To install a compiler, simply follow the instructions provided by the respective websites.
 
@@ -16,9 +15,9 @@ To install a compiler, simply follow the instructions provided by the respective
 
 An IDE is a software application that provides facilities for programming, such as code editing, debugging, and building. Some popular C++ IDEs include:
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/features/cplusplus/) (Windows, macOS)
-- [Eclipse](https://eclipse.org) (Windows, macOS, Linux)
-- [Code::Blocks](http://www.codeblocks.org) (Windows, macOS, Linux)
+- [@article@Visual Studio](https://visualstudio.microsoft.com/vs/features/cplusplus/) (Windows, macOS)
+- [@article@Eclipse](https://eclipse.org) (Windows, macOS, Linux)
+- [@article@Code::Blocks](http://www.codeblocks.org) (Windows, macOS, Linux)
 
 After downloading and installing an IDE, you might need to configure it to use the installed compiler. Check the documentation of the respective IDE for instructions on how to do this.
 

@@ -4,4 +4,5 @@
 
 ## References
 
-- [cidr.xyz: Interactive CIDR range visualizer](https://cidr.xyz/)
+- [@official@cidr.xyz: Interactive CIDR range visualizer](https://cidr.xyz/)
+- [@official@VPC - CIRD Blocks](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-cidr-blocks.html)

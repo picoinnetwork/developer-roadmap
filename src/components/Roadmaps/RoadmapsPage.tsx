@@ -222,6 +222,12 @@ const groups: GroupType[] = [
         type: 'skill',
         otherGroups: ['Web Development'],
       },
+      {
+        title: 'Terraform',
+        link: '/terraform',
+        type: 'skill',
+        otherGroups: ['Web Development'],
+      },
     ],
   },
   {
@@ -230,6 +236,11 @@ const groups: GroupType[] = [
       {
         title: 'Android',
         link: '/android',
+        type: 'role',
+      },
+      {
+        title: 'iOS',
+        link: '/ios',
         type: 'role',
       },
       {
@@ -303,6 +314,16 @@ const groups: GroupType[] = [
       {
         title: 'Technical Writer',
         link: '/technical-writer',
+        type: 'role',
+      },
+      {
+        title: 'Product Manager',
+        link: '/product-manager',
+        type: 'role',
+      },
+      {
+        title: 'DevRel Engineer',
+        link: '/devrel',
         type: 'role',
       },
     ],

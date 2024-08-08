@@ -4,6 +4,7 @@ First of all thank you for considering to contribute. Please look at the details
 
 - [New Roadmaps](#new-roadmaps)
 - [Existing Roadmaps](#existing-roadmaps)
+- [Adding Projects](#adding-projects)
 - [Adding Content](#adding-content)
 - [Guidelines](#guidelines)
 
@@ -21,6 +22,10 @@ For the existing roadmaps, please follow the details listed for the nature of co
 - **Adding or Removing Nodes** — Please open an [issue](https://github.com/kamranahmedse/developer-roadmap/issues) with your suggestion.
 
 **Note:** Please note that our goal is <strong>not to have the biggest list of items</strong>. Our goal is to list items or skills most relevant today.
+
+## Adding Projects
+
+If you have a project idea that you think we should add to the roadmap, feel fre to open an issue with as much details about the project as possible and the roadmap you think it should be added to.
 
 ## Adding Content
 
@@ -41,10 +46,25 @@ Please adhere to the following style when adding content to a topic:
 
 Visit the following resources to learn more:
 
-- [Description of link](Link)
+- [@type@Description of link](Link)
 ```
 
+`@type@` must be one of the following and describes the type of content you are adding:
+
+- `@official@`
+- `@opensource@`
+- `@article@`
+- `@course@`
+- `@podcast@`
+- `@video@`
+
+It's important to add a valid type, this will help us categorize the content and display it properly on the roadmap.
+
 ## Guidelines
+
+- <p><strong>Please don't use the project for self-promotion!</strong><br />
+
+  We believe this project is a valuable asset to the developer community and it includes numerous helpful resources. We kindly ask you to avoid submitting pull requests for the sole purpose of self-promotion. We appreciate contributions that genuinely add value, such as guides from maintainers of well-known frameworks, and will consider accepting these even if they're self authored. Thank you for your understanding and cooperation!
 
 - <p><strong>Adding everything available out there is not the goal!</strong><br />
 
@@ -61,8 +81,6 @@ Visit the following resources to learn more:
 - <p><strong>Write meaningful commit messages</strong><br >
 
   Meaningful commit messages help speed up the review process as well as help other contributors in gaining a good overview of the repositories commit history without having to dive into every commit.
-  
-  (See the following guide on how to write good [commit messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)).
 
   </p>
 - <p><strong>Look at the existing issues/pull requests before opening new ones</strong></p>
@@ -80,5 +98,6 @@ Visit the following resources to learn more:
 
   - Adding whitespace that doesn't add to the readability of the content.
   - Rewriting content in a way that doesn't add any value.
-  - None English content.
+  - Non-English content.
   - PR's that don't follow our style guide, have no description and a default title.
+  - Links to your own blog articles.
